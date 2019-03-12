@@ -1,5 +1,5 @@
 [package]
-name = "quadtree-demo"
+name = "qtree-demo"
 version = "0.1.0"
 authors = ["Stan Drozd <drozdziak1@gmail.com>"]
 edition = "2018"
